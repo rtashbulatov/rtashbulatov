@@ -1,6 +1,6 @@
 ## About me
 
-22 y.o. backend developer
+23 y.o. backend developer
 
 ## Skills 
 
